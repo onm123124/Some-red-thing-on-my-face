@@ -17,6 +17,7 @@ void draw() {
   //OS System Button
   //Start Button | Measles Reset Button
   //Theme: face & measles with different sizes and colours
+  faceSetup();
   }//End draw
 //
 void keyPressed() {
